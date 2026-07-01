@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+python-dotenv
+motor
+python-multipart
+scikit-learn
+pandas
+numpy
+bcrypt
+python-jose[cryptography]
+spacy
